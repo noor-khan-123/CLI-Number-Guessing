@@ -1,1 +1,1 @@
-# CLI-Number-Guessing
+# cli-nimber-guessung
